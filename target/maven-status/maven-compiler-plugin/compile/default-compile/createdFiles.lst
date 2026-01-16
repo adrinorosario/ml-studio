@@ -1,0 +1,12 @@
+com/adrino/mlstudio/app/Product.class
+com/adrino/mlstudio/app/ProductProcessor.class
+com/adrino/mlstudio/app/GenericUtil.class
+com/adrino/mlstudio/app/Check.class
+com/adrino/mlstudio/app/MLStudioApp.class
+com/adrino/mlstudio/app/DigitalProduct.class
+com/adrino/mlstudio/app/StringOp.class
+com/adrino/mlstudio/app/MLStudioGenericsDemo.class
+com/adrino/mlstudio/app/GenericStore.class
+com/adrino/mlstudio/app/Criteria.class
+com/adrino/mlstudio/app/PhysicalProduct.class
+com/adrino/mlstudio/app/Arithmetic.class
